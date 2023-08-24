@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Stakeholder Management
-===========================================================================================================
 
 Implementing AI-based stakeholder management strategies requires careful planning, technical expertise, and a commitment to ethical and responsible AI use. In this chapter, we provide an overview of the steps involved in implementing AI-based stakeholder management, along with some key considerations.
 

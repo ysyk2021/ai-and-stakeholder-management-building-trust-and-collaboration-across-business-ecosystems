@@ -1,5 +1,3 @@
-Implications for the Future of Building Trust and Collaboration Across Business Ecosystems
-============================================================================================================================
 
 As AI continues to evolve and transform the business landscape, there are several future directions and challenges that will have implications for building trust and collaboration across business ecosystems.
 

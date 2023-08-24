@@ -1,5 +1,3 @@
-Relationship Mapping and Network Analysis
-====================================================================================================
 
 Relationship mapping and network analysis are AI-based techniques that can be used for stakeholder management in a variety of ways. In this chapter, we provide an overview of these techniques and their applications.
 

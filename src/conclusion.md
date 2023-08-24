@@ -1,4 +1,3 @@
-# Conclusion
 
 AI-based stakeholder management techniques and strategies can help organizations to build trust and collaboration across business ecosystems. In this book, we have provided an overview of some of the key AI-based stakeholder management techniques and strategies that organizations can use.
 

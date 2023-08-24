@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-========================================================================================
 
 As organizations increasingly turn to AI-based stakeholder management to improve engagement and collaboration with stakeholders, there is a growing need to consider the regulatory and ethical implications of implementing these initiatives. In this chapter, we explore the key regulatory and ethical considerations that must be taken into account when implementing AI-based stakeholder management.
 

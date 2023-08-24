@@ -1,5 +1,3 @@
-Chatbots and Virtual Assistants
-==========================================================================================
 
 Chatbots and virtual assistants are AI-based technologies that can be used for stakeholder management in several ways. In this chapter, we provide an overview of these AI-based stakeholder management techniques and strategies.
 

@@ -1,5 +1,3 @@
-Traditional Approaches to Stakeholder Management
-======================================================================================
 
 Traditional approaches to stakeholder management have focused on reactive and compliance-based strategies, which may not be sufficient for addressing the complex and dynamic stakeholder landscape of today's business environment. In this chapter, we will explore the limitations and challenges of traditional approaches to stakeholder management.
 

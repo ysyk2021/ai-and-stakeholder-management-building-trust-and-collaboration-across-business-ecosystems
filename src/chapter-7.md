@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 As AI-based stakeholder management continues to evolve and grow in importance, there are a number of emerging trends and technologies, opportunities and challenges, and overall implications that will shape the future of building trust and collaboration across business ecosystems.
 

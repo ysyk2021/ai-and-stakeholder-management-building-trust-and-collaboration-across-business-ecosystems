@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Stakeholder Management
-====================================================================================================================================
 
 Artificial intelligence (AI) is a broad term that encompasses various types of technologies, including machine learning, natural language processing, computer vision, and robotics. Each type of AI has unique capabilities and applications in stakeholder management. This chapter will provide an overview of different types of AI and their specific use cases in stakeholder management.
 

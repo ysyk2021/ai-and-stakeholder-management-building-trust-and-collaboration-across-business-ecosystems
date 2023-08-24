@@ -1,5 +1,3 @@
-Sentiment Analysis and Opinion Mining
-================================================================================================
 
 Sentiment analysis and opinion mining are powerful techniques for understanding stakeholder sentiment and preferences towards a particular issue or topic. In this chapter, we provide an overview of these AI-based stakeholder management techniques and strategies.
 

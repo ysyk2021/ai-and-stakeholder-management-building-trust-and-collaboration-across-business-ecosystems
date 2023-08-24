@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Stakeholder Management
-================================================================================================
 
 Artificial intelligence (AI) is revolutionizing the way organizations manage stakeholders by providing new tools and capabilities to understand and engage with stakeholders. In this chapter, we will provide an overview of AI and its applications in stakeholder management.
 

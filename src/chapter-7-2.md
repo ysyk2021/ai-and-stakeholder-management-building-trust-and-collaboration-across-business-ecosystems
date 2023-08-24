@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling Up AI-Based Stakeholder Management
-============================================================================================================
 
 As organizations increasingly recognize the value of AI-based stakeholder management, there is growing interest in scaling up these initiatives to achieve greater impact across business ecosystems. However, scaling up poses a range of challenges and opportunities that must be carefully considered. In this chapter, we explore the key opportunities and challenges of scaling up AI-based stakeholder management.
 

@@ -1,5 +1,3 @@
-Data Collection and Analysis for Stakeholder Management
-=======================================================
 
 Effective stakeholder management requires the collection and analysis of various types of data. By gathering relevant information about stakeholders, organizations can gain insight into their needs, preferences, behaviors, and sentiment toward the business. This chapter will provide an overview of data collection and analysis for stakeholder management and delve into specific types of data, including stakeholder feedback, market research, social media, regulatory, and compliance data.
 

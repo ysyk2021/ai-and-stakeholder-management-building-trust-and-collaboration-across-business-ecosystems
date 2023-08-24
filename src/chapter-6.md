@@ -1,5 +1,3 @@
-Implementation of AI-Based Stakeholder Management
-=================================================
 
 Implementing AI-based stakeholder management requires careful planning and consideration of a range of factors. In this chapter, we explore an overview of implementing AI-based stakeholder management, regulatory and ethical considerations, integration with stakeholder management processes and tools, employee education and engagement, and business models and cost-effectiveness.
 

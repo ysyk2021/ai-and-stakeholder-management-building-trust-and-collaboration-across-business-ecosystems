@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-=======================================================================================
 
 Effective stakeholder management requires careful collection and analysis of stakeholder data. However, organizations must also navigate a complex regulatory and compliance landscape when collecting and using stakeholder data. In this chapter, we explore the key considerations and best practices for collecting and analyzing regulatory and compliance data in AI-based stakeholder management.
 

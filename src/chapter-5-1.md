@@ -1,5 +1,3 @@
-Overview of AI-Based Stakeholder Management Techniques and Strategies
-================================================================================================================================
 
 AI-based stakeholder management techniques and strategies can help organizations to better understand, engage with, and meet the needs of their stakeholders. In this chapter, we provide an overview of some of the key AI-based stakeholder management techniques and strategies that organizations can use.
 

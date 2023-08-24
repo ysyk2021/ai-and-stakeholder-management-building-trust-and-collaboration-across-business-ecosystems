@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Stakeholder Management
-==========================================================================================================
 
 Artificial intelligence (AI) is transforming stakeholder management by enabling organizations to collect, analyze, and interpret vast amounts of data quickly and accurately. This chapter will provide several case studies of how organizations are using AI in stakeholder management to build trust and collaboration across business ecosystems.
 

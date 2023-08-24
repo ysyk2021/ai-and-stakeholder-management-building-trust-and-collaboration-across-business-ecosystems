@@ -1,5 +1,3 @@
-Risk Assessment and Crisis Management
-================================================================================================
 
 Effective stakeholder management requires a proactive approach to risk assessment and crisis management. This involves leveraging AI-based technologies to identify potential risks and proactively address them. In this chapter, we explore the key techniques and strategies involved in AI-based risk assessment and crisis management in stakeholder management.
 
