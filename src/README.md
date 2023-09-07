@@ -10,3 +10,7 @@ We cover a range of topics, from customer relationship management (CRM) and empl
 By leveraging the latest technology and tools, we can unlock new levels of productivity, innovation, and growth while building strong relationships with our stakeholders. So, let's dive in and discover the exciting world of AI and stakeholder management, and learn how to use these powerful tools to achieve our desired outcomes and build a successful business ecosystem.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
