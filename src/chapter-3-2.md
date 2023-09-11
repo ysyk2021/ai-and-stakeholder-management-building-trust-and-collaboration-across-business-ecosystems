@@ -1,5 +1,4 @@
-Chapter: Advantages and Limitations of AI in Stakeholder Management
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the advantages and limitations of AI in the context of stakeholder management. We examine how AI technologies can enhance stakeholder engagement, decision-making processes, and collaboration within business ecosystems, while also acknowledging the potential challenges and limitations that businesses may face.
 

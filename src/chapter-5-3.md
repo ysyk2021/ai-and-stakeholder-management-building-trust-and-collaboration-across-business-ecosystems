@@ -1,5 +1,4 @@
-Chapter: Relationship Mapping and Network Analysis
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the concept of relationship mapping and network analysis in the context of AI and stakeholder management. We delve into the importance of understanding relationships and analyzing networks to build trust, foster collaboration, and drive effective decision-making within business ecosystems.
 

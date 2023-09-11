@@ -1,5 +1,4 @@
-Chapter: Regulatory and Compliance Data
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we focus on the importance of regulatory and compliance data in the context of AI and stakeholder management. We delve into the role of regulations, guidelines, and data compliance practices in building trust, ensuring transparency, and fostering collaboration within business ecosystems.
 

@@ -1,5 +1,4 @@
-Chapter: Overview of Data Collection and Analysis for Stakeholder Management
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of data collection and analysis techniques for effective stakeholder management in the context of AI. We explore the importance of data-driven approaches in understanding stakeholders, building trust, and fostering collaboration within business ecosystems.
 

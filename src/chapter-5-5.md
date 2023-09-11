@@ -1,5 +1,4 @@
-Chapter: Risk Assessment and Crisis Management
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we focus on the importance of risk assessment and crisis management in the context of AI and stakeholder management. We explore how businesses can identify and mitigate risks, effectively respond to crises, and maintain trust and collaboration within their ecosystems.
 

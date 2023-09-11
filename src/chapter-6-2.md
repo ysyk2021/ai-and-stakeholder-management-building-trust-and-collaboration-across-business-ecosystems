@@ -1,5 +1,4 @@
-Chapter: Regulatory and Ethical Considerations
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the regulatory and ethical considerations surrounding AI and stakeholder management. We explore the importance of establishing guidelines, frameworks, and practices to ensure responsible and ethical use of AI in business ecosystems.
 
